@@ -1,4 +1,4 @@
-package com.example.bootlogging;
+package com.example.logging;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
